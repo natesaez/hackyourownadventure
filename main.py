@@ -19,3 +19,5 @@ attacker = Character(name, age, gender)
 print(f"\nAlright {attacker.name}, we are ready to go! Now its time to start your adventure!\n")
 
 print('hello world')
+
+#This is a comment
