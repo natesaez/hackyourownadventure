@@ -20,4 +20,9 @@ print(f"\nAlright {attacker.name}, we are ready to go! Now its time to start you
 
 print('hello world')
 
-#This is a comment
+#This is still a comment
+
+
+def math(n, x):
+    y = n + x 
+    print (y)
